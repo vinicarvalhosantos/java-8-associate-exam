@@ -11,6 +11,8 @@ class HelloWorld {
         Car car = new Car("Blue", "Sedan");
         car.start();
         car.printDescription();
+
+        Car test = new Car();
         
     }
 
